@@ -1,7 +1,7 @@
 # Welcome to the MindsDB Manual QA Testing for SendinBlue(Brevo) Handler
 
 
-## Testing MySQL Handler with [Dataset Name](URL to the Dataset)
+## Testing SendinBlue Handler
 
 **1. Testing CREATE DATABASE**
 
