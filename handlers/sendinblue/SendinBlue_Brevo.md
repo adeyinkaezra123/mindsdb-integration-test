@@ -32,6 +32,13 @@ SELECT * FROM sib_datasource.email_campaigns;
 ![SELECT FROM](https://github.com/adeyinkaezra123/mindsdb-integration-test/assets/65364356/e990ebb7-3bb4-4d68-9a48-7cc32b5f9b70)
 
 
+**4. Testing SELECT FROM email_campaigns with sorting directives**
+
+```sql
+SELECT id, name FROM sib_datasource.email_campaigns WHERE status = 'sent' ORDER BY name LIMIT 5;
+```
+
+![SELECT FROM ORDER BY](https://github.com/adeyinkaezra123/mindsdb-integration-test/assets/65364356/3ff344b6-b245-48e0-bbac-8336a564fb1f)
 
 
 
